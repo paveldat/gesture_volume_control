@@ -24,4 +24,4 @@ Increment this number until you see your webcam.
 <img src="https://github.com/paveldat/gesture_volume_control/blob/main/img/HandLandmarks.png">
 
 ## Result
-<video src="https://github.com/paveldat/gesture_volume_control/blob/main/img/1.mp4">
+![Alt Text](https://github.com/paveldat/gesture_volume_control/blob/main/img/1.gif)
