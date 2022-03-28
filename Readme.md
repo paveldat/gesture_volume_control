@@ -3,7 +3,7 @@ In this project I am going to learn how to use Gesture Control to change the vol
 I first look into hand tracking and then I will use the hand landmarks to find gesture of my hand to change the volume.
 
 ## The second version
-Follow the [link](https://github.com/paveldat/gesture_volume_control_v2) to see my second version.
+Follow the [link](https://github.com/paveldat/gesture_volume_control_v2) to see my second version of "Gesture volume control"
 
 ## Features
 * Can track your hand in real-time
